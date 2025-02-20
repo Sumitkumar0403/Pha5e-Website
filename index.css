@@ -1,0 +1,14 @@
+.main{
+    display: flex;
+    justify-content: center;
+    font-size: 80px;
+
+}
+
+.sub-main{
+    max-width: 500px;
+    display: flex;
+    justify-content: center;
+    font-weight: bold;
+    
+}
